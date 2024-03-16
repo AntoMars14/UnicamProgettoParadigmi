@@ -1,7 +1,7 @@
 # UnicamProgettoParadigmi
 ## Esecuzione del progetto
 ### Creazione Database
-- Creare database utilizzando il dump presente nella cartella database.
+- Creare database utilizzando il dump presente nella cartella database/dump.sql.
 - User Id = adminparadigmi
 - Password = password
 ### Esecuzione
