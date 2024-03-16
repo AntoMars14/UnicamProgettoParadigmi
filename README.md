@@ -1,5 +1,5 @@
 # UnicamProgettoParadigmi
-Progetto n.3 Realizzazione di una web api che permetta la gestione di una lista di distribuzione 
+Progetto n.3 - Realizzazione di una web api che permetta la gestione di una lista di distribuzione 
 multi utenza.
 ## Esecuzione del progetto
 ### Creazione Database
