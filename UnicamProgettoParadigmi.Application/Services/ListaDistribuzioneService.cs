@@ -56,6 +56,10 @@ namespace UnicamProgettoParadigmi.Application.Services
             _listaDistribuzioneRepository.Save();
             utente.ListeDistribuzione.Add(lista);
             _utenteRepository.Save();
+            foreach (var email in listaDistribuzioneDto.Emails)
+            {
+                this.AggiungiDestinatarioListaDistribuzione(listaDistribuzioneDto.Nome, email, id);
+            }
             return ResponseFactory.WithSuccess("Lista creata");
         }
 
