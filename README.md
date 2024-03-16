@@ -1,4 +1,6 @@
 # UnicamProgettoParadigmi
+Progetto n.3 Realizzazione di una web api che permetta la gestione di una lista di distribuzione 
+multi utenza.
 ## Esecuzione del progetto
 ### Creazione Database
 - Creare database utilizzando il dump presente nella cartella database/dump.sql.
