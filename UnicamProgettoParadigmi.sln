@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicamProgettoParadigmi.Web
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicamProgettoParadigmi.Application", "UnicamProgettoParadigmi.Application\UnicamProgettoParadigmi.Application.csproj", "{7885EBB6-4852-43D5-A3BD-0F9EE7B35BC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicamProgettoParadigmi.Testing", "Testing\UnicamProgettoParadigmi.Testing.csproj", "{57802F16-EF7D-470E-A847-F53B25D93DF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicamProgettoParadigmi.Testing", "Testing\UnicamProgettoParadigmi.Testing.csproj", "{57802F16-EF7D-470E-A847-F53B25D93DF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "database", "database", "{0D99490C-7DFA-4C32-AB76-A6466319A4E4}"
+	ProjectSection(SolutionItems) = preProject
+		dump.sql = dump.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
